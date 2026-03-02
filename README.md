@@ -1,5 +1,3 @@
-Diseño y Gestión de Centros de Datos
-
 Asignatura: Diseño y Gestión de Centros de Datos
 Máster en Ingeniería Informática – Universidad de Huelva
 
